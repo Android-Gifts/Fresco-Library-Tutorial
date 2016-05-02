@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fresco Example</string>
+    <string name="title_activity_user_list">User List Example</string>
+    <string name="title_activity_gif">GIF Example</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
